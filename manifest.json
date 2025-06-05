@@ -1,0 +1,14 @@
+{
+  "name": "Export CSV Button",
+  "description": "Botão simples para exportar dados como CSV.",
+  "author": "Caue Duarte",
+  "organization": "UsoDigital",
+  "supportUrl": "https://usodigital.site",
+  "version": "1.0",
+  "components": [
+    {
+      "id": "csv_export_button",
+      "file": "script.js"
+    }
+  ]
+}
